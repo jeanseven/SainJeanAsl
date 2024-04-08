@@ -1,8 +1,7 @@
-# SainJeanAsl
+# Vietnam_playFACTO
 
-project as homework for better understand binary classification/linear regression
+sanatov order 01 april 2024
 
 contacts:
 jean: 87752101423;
-sain: 87479122591;
-aslan: ?
+
